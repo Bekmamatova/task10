@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+
+.header, .nav, .container {
+    width: 100vw;
+}
+
+.header {
+    height: 100px;
+}
+
+.container{
+    display: flex;
+    height: 200px;
+}
+
+
+
+.left-panel, .right-panel, .container {
+    height: 200px; 
+}
+
+.left-panel, .right-panel {
+    width: 25%;
+}
+
+
+.content {
+    width: 49%;
+    
+}
+
+.container2 {
+    display: flex;
+    height: 200px;
+}
+
+.left-panel2, .right-panel2, .container2 {
+    height: 200px; 
+}
+
+.left-panel2, .right-panel2 {
+    width: 50%;
+}
+
+
+
+.rpan {
+    height: 200px; 
+    width: 30%;
+}
+
+.lpan{
+    height: 200px; 
+    width: 80%; 
+}
+
+.lastcontainer, .card {
+    display:flex;
+}
+.cards {
+    width: 400px;
+    height: 200px;
+}
